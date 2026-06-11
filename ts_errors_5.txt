@@ -1,0 +1,23 @@
+﻿src/app/inventory/intelligence/page.tsx(172,21): error TS7022: 'poItems' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+src/app/inventory/intelligence/page.tsx(176,8): error TS2448: Block-scoped variable 'poItems' used before its declaration.
+src/app/inventory/intelligence/page.tsx(176,35): error TS7006: Parameter 'i' implicitly has an 'any' type.
+src/app/inventory/movements/page.tsx(53,28): error TS2802: Type 'Set<unknown>' can only be iterated through when using the '--downlevelIteration' flag or with a '--target' of 'es2015' or higher.
+src/app/inventory/movements/page.tsx(53,53): error TS7006: Parameter 'm' implicitly has an 'any' type.
+src/app/inventory/movements/page.tsx(54,27): error TS2802: Type 'Set<unknown>' can only be iterated through when using the '--downlevelIteration' flag or with a '--target' of 'es2015' or higher.
+src/app/inventory/movements/page.tsx(54,52): error TS7006: Parameter 'm' implicitly has an 'any' type.
+src/app/inventory/movements/page.tsx(55,25): error TS2802: Type 'Set<unknown>' can only be iterated through when using the '--downlevelIteration' flag or with a '--target' of 'es2015' or higher.
+src/app/inventory/movements/page.tsx(55,50): error TS7006: Parameter 'm' implicitly has an 'any' type.
+src/app/inventory/movements/page.tsx(63,48): error TS7006: Parameter 'p' implicitly has an 'any' type.
+src/app/inventory/movements/page.tsx(64,53): error TS7006: Parameter 'b' implicitly has an 'any' type.
+src/app/inventory/movements/page.tsx(65,48): error TS7006: Parameter 'u' implicitly has an 'any' type.
+src/app/inventory/movements/page.tsx(67,35): error TS7006: Parameter 'm' implicitly has an 'any' type.
+src/app/inventory/purchase-orders/[id]/page.tsx(73,36): error TS7006: Parameter 'i' implicitly has an 'any' type.
+src/app/inventory/purchase-orders/[id]/page.tsx(75,46): error TS7006: Parameter 'p' implicitly has an 'any' type.
+src/app/inventory/purchase-orders/[id]/page.tsx(77,39): error TS7006: Parameter 'i' implicitly has an 'any' type.
+src/app/inventory/purchase-orders/[id]/page.tsx(85,27): error TS7006: Parameter 'i' implicitly has an 'any' type.
+src/app/inventory/purchase-orders/page.tsx(55,38): error TS7006: Parameter 's' implicitly has an 'any' type.
+src/app/inventory/purchase-orders/page.tsx(57,32): error TS7006: Parameter 'po' implicitly has an 'any' type.
+src/components/layout/ReconnectBanner.tsx(15,38): error TS7006: Parameter 'payload' implicitly has an 'any' type.
+src/components/layout/ReconnectBanner.tsx(20,19): error TS7006: Parameter 'status' implicitly has an 'any' type.
+src/lib/supabase/server.ts(16,16): error TS7006: Parameter 'cookiesToSet' implicitly has an 'any' type.
+src/middleware.ts(15,16): error TS7006: Parameter 'cookiesToSet' implicitly has an 'any' type.

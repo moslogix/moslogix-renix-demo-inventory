@@ -1,0 +1,91 @@
+﻿src/app/inventory/categories/page.tsx(180,17): error TS2345: Argument of type 'any' is not assignable to parameter of type 'never'.
+src/app/inventory/intelligence/page.tsx(172,21): error TS7022: 'poItems' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+src/app/inventory/intelligence/page.tsx(172,39): error TS2349: This expression is not callable.
+  Type 'PostgrestFilterBuilder<{ PostgrestVersion: "12"; }, never, never, never[], "purchase_order_items", never, "GET">' has no call signatures.
+src/app/inventory/intelligence/page.tsx(176,8): error TS2448: Block-scoped variable 'poItems' used before its declaration.
+src/app/inventory/intelligence/page.tsx(176,35): error TS7006: Parameter 'i' implicitly has an 'any' type.
+src/app/inventory/layout.tsx(29,28): error TS2339: Property 'role' does not exist on type 'never'.
+src/app/inventory/movements/page.tsx(53,28): error TS2802: Type 'Set<any>' can only be iterated through when using the '--downlevelIteration' flag or with a '--target' of 'es2015' or higher.
+src/app/inventory/movements/page.tsx(53,60): error TS2339: Property 'product_id' does not exist on type 'never'.
+src/app/inventory/movements/page.tsx(54,27): error TS2802: Type 'Set<any>' can only be iterated through when using the '--downlevelIteration' flag or with a '--target' of 'es2015' or higher.
+src/app/inventory/movements/page.tsx(54,59): error TS2339: Property 'branch_id' does not exist on type 'never'.
+src/app/inventory/movements/page.tsx(55,25): error TS2802: Type 'Set<any>' can only be iterated through when using the '--downlevelIteration' flag or with a '--target' of 'es2015' or higher.
+src/app/inventory/movements/page.tsx(55,57): error TS2339: Property 'created_by' does not exist on type 'never'.
+src/app/inventory/movements/page.tsx(63,56): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/inventory/movements/page.tsx(63,62): error TS2339: Property 'name' does not exist on type 'never'.
+src/app/inventory/movements/page.tsx(64,61): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/inventory/movements/page.tsx(64,67): error TS2339: Property 'name' does not exist on type 'never'.
+src/app/inventory/movements/page.tsx(65,56): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/inventory/movements/page.tsx(65,62): error TS2339: Property 'full_name' does not exist on type 'never'.
+src/app/inventory/movements/page.tsx(68,7): error TS2698: Spread types may only be created from object types.
+src/app/inventory/movements/page.tsx(69,35): error TS2339: Property 'product_id' does not exist on type 'never'.
+src/app/inventory/movements/page.tsx(70,36): error TS2339: Property 'branch_id' does not exist on type 'never'.
+src/app/inventory/movements/page.tsx(71,20): error TS2339: Property 'created_by' does not exist on type 'never'.
+src/app/inventory/movements/page.tsx(71,47): error TS2339: Property 'created_by' does not exist on type 'never'.
+src/app/inventory/products/[id]/page.tsx(83,18): error TS2339: Property 'name' does not exist on type 'never'.
+src/app/inventory/products/[id]/page.tsx(84,17): error TS2339: Property 'sku' does not exist on type 'never'.
+src/app/inventory/products/[id]/page.tsx(85,21): error TS2339: Property 'barcode' does not exist on type 'never'.
+src/app/inventory/products/[id]/page.tsx(86,25): error TS2339: Property 'description' does not exist on type 'never'.
+src/app/inventory/products/[id]/page.tsx(87,24): error TS2339: Property 'category_id' does not exist on type 'never'.
+src/app/inventory/products/[id]/page.tsx(88,24): error TS2339: Property 'supplier_id' does not exist on type 'never'.
+src/app/inventory/products/[id]/page.tsx(89,23): error TS2339: Property 'cost_price' does not exist on type 'never'.
+src/app/inventory/products/[id]/page.tsx(90,26): error TS2339: Property 'price' does not exist on type 'never'.
+src/app/inventory/products/[id]/page.tsx(91,23): error TS2339: Property 'is_taxable' does not exist on type 'never'.
+src/app/inventory/products/[id]/page.tsx(92,25): error TS2339: Property 'tax_category' does not exist on type 'never'.
+src/app/inventory/products/[id]/page.tsx(93,31): error TS2339: Property 'low_stock_threshold' does not exist on type 'never'.
+src/app/inventory/products/[id]/page.tsx(94,22): error TS2339: Property 'is_active' does not exist on type 'never'.
+src/app/inventory/products/[id]/page.tsx(105,28): error TS2339: Property 'branch_id' does not exist on type 'never'.
+src/app/inventory/products/[id]/page.tsx(173,15): error TS2345: Argument of type 'any' is not assignable to parameter of type 'never'.
+src/app/inventory/products/[id]/page.tsx(209,26): error TS2339: Property 'store_id' does not exist on type 'never'.
+src/app/inventory/products/new/page.tsx(75,60): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/inventory/products/new/page.tsx(84,19): error TS2339: Property 'store_id' does not exist on type 'never'.
+src/app/inventory/products/new/page.tsx(84,45): error TS2339: Property 'store_id' does not exist on type 'never'.
+src/app/inventory/products/new/page.tsx(199,31): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/inventory/products/new/page.tsx(223,29): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/inventory/products/new/page.tsx(233,48): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/inventory/products/page.tsx(187,15): error TS2345: Argument of type 'any' is not assignable to parameter of type 'never'.
+src/app/inventory/products/page.tsx(202,15): error TS2345: Argument of type 'any' is not assignable to parameter of type 'never'.
+src/app/inventory/products/page.tsx(218,15): error TS2345: Argument of type 'any' is not assignable to parameter of type 'never'.
+src/app/inventory/products/page.tsx(232,15): error TS2345: Argument of type 'any' is not assignable to parameter of type 'never'.
+src/app/inventory/purchase-orders/[id]/page.tsx(65,62): error TS2339: Property 'supplier_id' does not exist on type 'never'.
+src/app/inventory/purchase-orders/[id]/page.tsx(73,43): error TS2339: Property 'product_id' does not exist on type 'never'.
+src/app/inventory/purchase-orders/[id]/page.tsx(75,54): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/inventory/purchase-orders/[id]/page.tsx(78,7): error TS2698: Spread types may only be created from object types.
+src/app/inventory/purchase-orders/[id]/page.tsx(79,33): error TS2339: Property 'product_id' does not exist on type 'never'.
+src/app/inventory/purchase-orders/[id]/page.tsx(106,15): error TS2345: Argument of type 'Record<string, unknown>' is not assignable to parameter of type 'never'.
+src/app/inventory/purchase-orders/[id]/page.tsx(127,17): error TS2345: Argument of type '{ quantity_received: number; }' is not assignable to parameter of type 'never'.
+src/app/inventory/purchase-orders/[id]/page.tsx(133,30): error TS2339: Property 'store_id' does not exist on type 'never'.
+src/app/inventory/purchase-orders/[id]/page.tsx(148,15): error TS2345: Argument of type '{ status: string; received_date: string; }' is not assignable to parameter of type 'never'.
+src/app/inventory/purchase-orders/[id]/page.tsx(162,15): error TS2345: Argument of type '{ status: string; }' is not assignable to parameter of type 'never'.
+src/app/inventory/purchase-orders/new/page.tsx(51,44): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/inventory/purchase-orders/new/page.tsx(56,19): error TS2339: Property 'store_id' does not exist on type 'never'.
+src/app/inventory/purchase-orders/new/page.tsx(56,45): error TS2339: Property 'store_id' does not exist on type 'never'.
+src/app/inventory/purchase-orders/new/page.tsx(120,8): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(values: never, options?: { count?: "exact" | "planned" | "estimated" | undefined; } | undefined): PostgrestFilterBuilder<{ PostgrestVersion: "12"; }, never, never, null, "purchase_orders", never, "POST">', gave the following error.
+    Argument of type '{ store_id: string; branch_id: string; supplier_id: string; po_number: string; status: string; subtotal: number; tax_amount: number; total: number; notes: string | null; expected_date: string | null; received_date: null; created_by: string | null; }' is not assignable to parameter of type 'never'.
+  Overload 2 of 2, '(values: never[], options?: { count?: "exact" | "planned" | "estimated" | undefined; defaultToNull?: boolean | undefined; } | undefined): PostgrestFilterBuilder<{ PostgrestVersion: "12"; }, never, never, null, "purchase_orders", never, "POST">', gave the following error.
+    Object literal may only specify known properties, and 'store_id' does not exist in type 'never[]'.
+src/app/inventory/purchase-orders/new/page.tsx(141,29): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/inventory/purchase-orders/new/page.tsx(150,84): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(values: never, options?: { count?: "exact" | "planned" | "estimated" | undefined; } | undefined): PostgrestFilterBuilder<{ PostgrestVersion: "12"; }, never, never, null, "purchase_order_items", never, "POST">', gave the following error.
+    Argument of type '{ purchase_order_id: any; product_id: string; variant_id: null; quantity_ordered: number; quantity_received: number; unit_cost: number; total_cost: number; }[]' is not assignable to parameter of type 'never'.
+  Overload 2 of 2, '(values: never[], options?: { count?: "exact" | "planned" | "estimated" | undefined; defaultToNull?: boolean | undefined; } | undefined): PostgrestFilterBuilder<{ PostgrestVersion: "12"; }, never, never, null, "purchase_order_items", never, "POST">', gave the following error.
+    Argument of type '{ purchase_order_id: any; product_id: string; variant_id: null; quantity_ordered: number; quantity_received: number; unit_cost: number; total_cost: number; }[]' is not assignable to parameter of type 'never[]'.
+      Type '{ purchase_order_id: any; product_id: string; variant_id: null; quantity_ordered: number; quantity_received: number; unit_cost: number; total_cost: number; }' is not assignable to type 'never'.
+src/app/inventory/purchase-orders/new/page.tsx(154,50): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/inventory/purchase-orders/page.tsx(55,46): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/inventory/purchase-orders/page.tsx(55,52): error TS2339: Property 'name' does not exist on type 'never'.
+src/app/inventory/purchase-orders/page.tsx(58,7): error TS2698: Spread types may only be created from object types.
+src/app/inventory/purchase-orders/page.tsx(59,36): error TS2339: Property 'supplier_id' does not exist on type 'never'.
+src/app/inventory/suppliers/[id]/page.tsx(49,22): error TS2339: Property 'data' does not exist on type 'never'.
+src/app/inventory/suppliers/[id]/page.tsx(68,15): error TS2345: Argument of type '{ name: string; contact_name: string | null; email: string | null; phone: string | null; address: string | null; is_active: boolean; }' is not assignable to parameter of type 'never'.
+src/app/inventory/suppliers/page.tsx(57,19): error TS2339: Property 'store_id' does not exist on type 'never'.
+src/app/inventory/suppliers/page.tsx(57,45): error TS2339: Property 'store_id' does not exist on type 'never'.
+src/app/inventory/suppliers/page.tsx(93,17): error TS2345: Argument of type '{ name: string; contact_name: string | null; email: string | null; phone: string | null; address: string | null; is_active: boolean; }' is not assignable to parameter of type 'never'.
+src/app/inventory/suppliers/page.tsx(107,10): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(values: never, options?: { count?: "exact" | "planned" | "estimated" | undefined; } | undefined): PostgrestFilterBuilder<{ PostgrestVersion: "12"; }, never, never, null, "suppliers", never, "POST">', gave the following error.
+    Argument of type '{ store_id: string; name: string; contact_name: string | null; email: string | null; phone: string | null; address: string | null; is_active: boolean; }' is not assignable to parameter of type 'never'.
+  Overload 2 of 2, '(values: never[], options?: { count?: "exact" | "planned" | "estimated" | undefined; defaultToNull?: boolean | undefined; } | undefined): PostgrestFilterBuilder<{ PostgrestVersion: "12"; }, never, never, null, "suppliers", never, "POST">', gave the following error.
+    Object literal may only specify known properties, and 'store_id' does not exist in type 'never[]'.
+src/lib/supabase/server.ts(16,16): error TS7006: Parameter 'cookiesToSet' implicitly has an 'any' type.
+src/middleware.ts(15,16): error TS7006: Parameter 'cookiesToSet' implicitly has an 'any' type.
